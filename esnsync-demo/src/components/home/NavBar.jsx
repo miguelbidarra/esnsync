@@ -85,6 +85,7 @@ const NavBar = () => {
                   style={{ width: "25px", height: "auto" }}
                 />
               }
+              value={1}
             />
             <Tab label="Dashboard" />
             <Tab label="Events" />
